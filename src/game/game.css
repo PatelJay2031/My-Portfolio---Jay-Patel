@@ -1,0 +1,22 @@
+.game {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.gamebuttons {
+  margin: 0 auto;
+  display: flex;
+  width: 500px;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 15px;
+}
+.gamebutton {
+
+  margin: 20px;
+  padding: 15px;
+
+}
